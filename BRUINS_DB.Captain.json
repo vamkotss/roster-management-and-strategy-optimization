@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "674d40309b7a28b7c28f30d6"
+  },
+  "CaptainID": 1,
+  "PlayerID": 12,
+  "PlayerName": "Brad Marchand",
+  "CaptainType": "Captain"
+},
+{
+  "_id": {
+    "$oid": "674d40309b7a28b7c28f30d7"
+  },
+  "CaptainID": 2,
+  "PlayerID": 21,
+  "PlayerName": "Charlie McAvoy",
+  "CaptainType": "Alternate"
+},
+{
+  "_id": {
+    "$oid": "674d40309b7a28b7c28f30d8"
+  },
+  "CaptainID": 3,
+  "PlayerID": 15,
+  "PlayerName": "David Pastrnak",
+  "CaptainType": "Alternate"
+}]

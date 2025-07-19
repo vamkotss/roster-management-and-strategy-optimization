@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "674d502aa3c800f2ed104b43"
+  },
+  "PlayerID": 25,
+  "PlayerName": "Jeremy Swayman",
+  "GamesPlayed": 34,
+  "GamesStarted": 33,
+  "TimeOnIcePerGame": 208140,
+  "Wins": 18,
+  "Loss": 6,
+  "T": 0,
+  "OverTimeLoss": 8,
+  "GoalsAgainst": 83,
+  "GoalsAgainstPerGame": {
+    "$numberDecimal": "2.53"
+  },
+  "ShotsAgainst": 1026,
+  "Saves": 943,
+  "SavePercentage": {
+    "$numberDecimal": "0.919"
+  },
+  "Shutouts": 3
+},
+{
+  "_id": {
+    "$oid": "674d502aa3c800f2ed104b44"
+  },
+  "PlayerID": 26,
+  "PlayerName": "Linus Ullmark",
+  "GamesPlayed": 29,
+  "GamesStarted": 28,
+  "TimeOnIcePerGame": 216000,
+  "Wins": 16,
+  "Loss": 6,
+  "T": 0,
+  "OverTimeLoss": 6,
+  "GoalsAgainst": 79,
+  "GoalsAgainstPerGame": {
+    "$numberDecimal": "2.72"
+  },
+  "ShotsAgainst": 895,
+  "Saves": 817,
+  "SavePercentage": {
+    "$numberDecimal": "0.913"
+  },
+  "Shutouts": 1
+}]

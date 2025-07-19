@@ -1,0 +1,338 @@
+[{
+  "_id": {
+    "$oid": "674d4c0788f15881cac52acd"
+  },
+  "PlayerID": 1,
+  "PlayerName": "Johnny Beecher",
+  "JerseyNumber": 19,
+  "PositionID": "F1",
+  "Height": "6' 3\"",
+  "Weight": 209,
+  "Shoots": "L",
+  "Birthplace": "Elmira, NY"
+},
+{
+  "_id": {
+    "$oid": "674d4c0788f15881cac52ace"
+  },
+  "PlayerID": 2,
+  "PlayerName": "Jesper Boqvist",
+  "JerseyNumber": 70,
+  "PositionID": "F1",
+  "Height": "6' 1\"",
+  "Weight": 184,
+  "Shoots": "L",
+  "Birthplace": "Falun, Sweden"
+},
+{
+  "_id": {
+    "$oid": "674d4c0788f15881cac52acf"
+  },
+  "PlayerID": 3,
+  "PlayerName": "Patrick Brown",
+  "JerseyNumber": 38,
+  "PositionID": "F1",
+  "Height": "6' 1\"",
+  "Weight": 218,
+  "Shoots": "R",
+  "Birthplace": "Bloomfield Hills, MI"
+},
+{
+  "_id": {
+    "$oid": "674d4c0788f15881cac52ad0"
+  },
+  "PlayerID": 4,
+  "PlayerName": "Charlie Coyle",
+  "JerseyNumber": 13,
+  "PositionID": "F1",
+  "Height": "6' 3\"",
+  "Weight": 218,
+  "Shoots": "R",
+  "Birthplace": "Weymouth, MA"
+},
+{
+  "_id": {
+    "$oid": "674d4c0788f15881cac52ad1"
+  },
+  "PlayerID": 5,
+  "PlayerName": "Trent Frederic",
+  "JerseyNumber": 11,
+  "PositionID": "F1",
+  "Height": "6' 3\"",
+  "Weight": 220,
+  "Shoots": "L",
+  "Birthplace": "Saint Louis, MO"
+},
+{
+  "_id": {
+    "$oid": "674d4c0788f15881cac52ad2"
+  },
+  "PlayerID": 6,
+  "PlayerName": "Morgan Geekie",
+  "JerseyNumber": 39,
+  "PositionID": "F1",
+  "Height": "6' 3\"",
+  "Weight": 202,
+  "Shoots": "R",
+  "Birthplace": "Strathclair, CAN"
+},
+{
+  "_id": {
+    "$oid": "674d4c0788f15881cac52ad3"
+  },
+  "PlayerID": 7,
+  "PlayerName": "Jakub Lauko",
+  "JerseyNumber": 94,
+  "PositionID": "F1",
+  "Height": "6' 1\"",
+  "Weight": 193,
+  "Shoots": "L",
+  "Birthplace": "Prague, Czechia"
+},
+{
+  "_id": {
+    "$oid": "674d4c0788f15881cac52ad4"
+  },
+  "PlayerID": 8,
+  "PlayerName": "Matthew Poitras",
+  "JerseyNumber": 51,
+  "PositionID": "F1",
+  "Height": "5' 11\"",
+  "Weight": 180,
+  "Shoots": "R",
+  "Birthplace": "Brooklin, CAN"
+},
+{
+  "_id": {
+    "$oid": "674d4c0788f15881cac52ad5"
+  },
+  "PlayerID": 9,
+  "PlayerName": "Pavel Zacha",
+  "JerseyNumber": 18,
+  "PositionID": "F1",
+  "Height": "6' 4\"",
+  "Weight": 207,
+  "Shoots": "L",
+  "Birthplace": "Brno, Czechia"
+},
+{
+  "_id": {
+    "$oid": "674d4c0788f15881cac52ad6"
+  },
+  "PlayerID": 10,
+  "PlayerName": "Jake DeBrusk",
+  "JerseyNumber": 74,
+  "PositionID": "F2",
+  "Height": "6' 1\"",
+  "Weight": 198,
+  "Shoots": "L",
+  "Birthplace": "Edmonton, CAN"
+},
+{
+  "_id": {
+    "$oid": "674d4c0788f15881cac52ad7"
+  },
+  "PlayerID": 11,
+  "PlayerName": "Danton Heinen",
+  "JerseyNumber": 43,
+  "PositionID": "F2",
+  "Height": "6' 2\"",
+  "Weight": 195,
+  "Shoots": "L",
+  "Birthplace": "Langley, CAN"
+},
+{
+  "_id": {
+    "$oid": "674d4c0788f15881cac52ad8"
+  },
+  "PlayerID": 12,
+  "PlayerName": "Brad Marchand",
+  "JerseyNumber": 63,
+  "PositionID": "F2",
+  "Height": "5' 9\"",
+  "Weight": 176,
+  "Shoots": "L",
+  "Birthplace": "Halifax, CAN"
+},
+{
+  "_id": {
+    "$oid": "674d4c0788f15881cac52ad9"
+  },
+  "PlayerID": 13,
+  "PlayerName": "James van Riemsdyk",
+  "JerseyNumber": 21,
+  "PositionID": "F2",
+  "Height": "6' 3\"",
+  "Weight": 208,
+  "Shoots": "L",
+  "Birthplace": "Middletown, NJ"
+},
+{
+  "_id": {
+    "$oid": "674d4c0788f15881cac52ada"
+  },
+  "PlayerID": 14,
+  "PlayerName": "Justin Brazeau",
+  "JerseyNumber": 55,
+  "PositionID": "F3",
+  "Height": "6' 5\"",
+  "Weight": 220,
+  "Shoots": "R",
+  "Birthplace": "New Liskeard, CAN"
+},
+{
+  "_id": {
+    "$oid": "674d4c0788f15881cac52adb"
+  },
+  "PlayerID": 15,
+  "PlayerName": "David Pastrnak",
+  "JerseyNumber": 88,
+  "PositionID": "F3",
+  "Height": "6' 0\"",
+  "Weight": 196,
+  "Shoots": "L",
+  "Birthplace": "Havirov, Czechia"
+},
+{
+  "_id": {
+    "$oid": "674d4c0788f15881cac52adc"
+  },
+  "PlayerID": 16,
+  "PlayerName": "Brandon Carlo",
+  "JerseyNumber": 25,
+  "PositionID": "D2",
+  "Height": "6' 5\"",
+  "Weight": 217,
+  "Shoots": "R",
+  "Birthplace": "Colorado Springs, CO"
+},
+{
+  "_id": {
+    "$oid": "674d4c0788f15881cac52add"
+  },
+  "PlayerID": 17,
+  "PlayerName": "Derek Forbort",
+  "JerseyNumber": 28,
+  "PositionID": "D1",
+  "Height": "6' 4\"",
+  "Weight": 216,
+  "Shoots": "L",
+  "Birthplace": "Duluth, MN"
+},
+{
+  "_id": {
+    "$oid": "674d4c0788f15881cac52ade"
+  },
+  "PlayerID": 18,
+  "PlayerName": "Matt Grzelcyk",
+  "JerseyNumber": 48,
+  "PositionID": "D1",
+  "Height": "5' 10\"",
+  "Weight": 180,
+  "Shoots": "L",
+  "Birthplace": "Charlestown, MA"
+},
+{
+  "_id": {
+    "$oid": "674d4c0788f15881cac52adf"
+  },
+  "PlayerID": 19,
+  "PlayerName": "Hampus Lindholm",
+  "JerseyNumber": 27,
+  "PositionID": "D1",
+  "Height": "6' 4\"",
+  "Weight": 224,
+  "Shoots": "L",
+  "Birthplace": "Helsingborg, Sweden"
+},
+{
+  "_id": {
+    "$oid": "674d4c0788f15881cac52ae0"
+  },
+  "PlayerID": 20,
+  "PlayerName": "Mason Lohrei",
+  "JerseyNumber": 6,
+  "PositionID": "D2",
+  "Height": "6' 4\"",
+  "Weight": 210,
+  "Shoots": null,
+  "Birthplace": "Madison, WI"
+},
+{
+  "_id": {
+    "$oid": "674d4c0788f15881cac52ae1"
+  },
+  "PlayerID": 21,
+  "PlayerName": "Charlie McAvoy",
+  "JerseyNumber": 73,
+  "PositionID": "D2",
+  "Height": "6' 1\"",
+  "Weight": 209,
+  "Shoots": "R",
+  "Birthplace": "Long Beach, NY"
+},
+{
+  "_id": {
+    "$oid": "674d4c0788f15881cac52ae2"
+  },
+  "PlayerID": 22,
+  "PlayerName": "Ian Mitchell",
+  "JerseyNumber": 14,
+  "PositionID": "D2",
+  "Height": "5' 11\"",
+  "Weight": 193,
+  "Shoots": "R",
+  "Birthplace": "St. Albert, CAN"
+},
+{
+  "_id": {
+    "$oid": "674d4c0788f15881cac52ae3"
+  },
+  "PlayerID": 23,
+  "PlayerName": "Kevin Shattenkirk",
+  "JerseyNumber": 12,
+  "PositionID": "D2",
+  "Height": "6' 0\"",
+  "Weight": 203,
+  "Shoots": "R",
+  "Birthplace": "New Rochelle, NY"
+},
+{
+  "_id": {
+    "$oid": "674d4c0788f15881cac52ae4"
+  },
+  "PlayerID": 24,
+  "PlayerName": "Parker Wotherspoon",
+  "JerseyNumber": 29,
+  "PositionID": "D1",
+  "Height": "6' 1\"",
+  "Weight": 195,
+  "Shoots": "L",
+  "Birthplace": "Surrey, CAN"
+},
+{
+  "_id": {
+    "$oid": "674d4c0788f15881cac52ae5"
+  },
+  "PlayerID": 25,
+  "PlayerName": "Jeremy Swayman",
+  "JerseyNumber": 1,
+  "PositionID": "G1",
+  "Height": "6' 3\"",
+  "Weight": 195,
+  "Shoots": "L",
+  "Birthplace": "Anchorage, AK"
+},
+{
+  "_id": {
+    "$oid": "674d4c0788f15881cac52ae6"
+  },
+  "PlayerID": 26,
+  "PlayerName": "Linus Ullmark",
+  "JerseyNumber": 35,
+  "PositionID": "G1",
+  "Height": "6' 4\"",
+  "Weight": 213,
+  "Shoots": "L",
+  "Birthplace": "Lugnvik, Sweden"
+}]

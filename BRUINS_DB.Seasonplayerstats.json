@@ -1,0 +1,576 @@
+[{
+  "_id": {
+    "$oid": "674d5095bf203647f8384413"
+  },
+  "PlayerID": 1,
+  "PlayerName": "Johnny Beecher",
+  "GamesPlayed": 39,
+  "Goals": 5,
+  "Assists": 2,
+  "Points": 7,
+  "PlusMinus": -6,
+  "PenaltyMin": 15,
+  "Shots": 0,
+  "ShootingPercentage": {
+    "$numberDecimal": "18.50"
+  },
+  "PowerPlayGoals": 0,
+  "PowerPlayAssists": 0,
+  "ShortHandedGoals": 0,
+  "ShortHandedAssists": 0,
+  "GameWinningGoals": 1,
+  "TimeOnIcePerGame": 10,
+  "Production": 58
+},
+{
+  "_id": {
+    "$oid": "674d5095bf203647f8384414"
+  },
+  "PlayerID": 2,
+  "PlayerName": "Jesper Boqvist",
+  "GamesPlayed": 26,
+  "Goals": 4,
+  "Assists": 6,
+  "Points": 10,
+  "PlusMinus": 10,
+  "PenaltyMin": 4,
+  "Shots": 0,
+  "ShootingPercentage": {
+    "$numberDecimal": "12.50"
+  },
+  "PowerPlayGoals": 0,
+  "PowerPlayAssists": 0,
+  "ShortHandedGoals": 0,
+  "ShortHandedAssists": 0,
+  "GameWinningGoals": 0,
+  "TimeOnIcePerGame": 11,
+  "Production": 28
+},
+{
+  "_id": {
+    "$oid": "674d5095bf203647f8384415"
+  },
+  "PlayerID": 3,
+  "PlayerName": "Patrick Brown",
+  "GamesPlayed": 11,
+  "Goals": 0,
+  "Assists": 1,
+  "Points": 1,
+  "PlusMinus": -3,
+  "PenaltyMin": 2,
+  "Shots": 0,
+  "ShootingPercentage": {
+    "$numberDecimal": "0.00"
+  },
+  "PowerPlayGoals": 0,
+  "PowerPlayAssists": 0,
+  "ShortHandedGoals": 0,
+  "ShortHandedAssists": 0,
+  "GameWinningGoals": 0,
+  "TimeOnIcePerGame": 9,
+  "Production": 97
+},
+{
+  "_id": {
+    "$oid": "674d5095bf203647f8384416"
+  },
+  "PlayerID": 4,
+  "PlayerName": "Charlie Coyle",
+  "GamesPlayed": 61,
+  "Goals": 21,
+  "Assists": 29,
+  "Points": 50,
+  "PlusMinus": 6,
+  "PenaltyMin": 28,
+  "Shots": 2,
+  "ShootingPercentage": {
+    "$numberDecimal": "17.60"
+  },
+  "PowerPlayGoals": 5,
+  "PowerPlayAssists": 4,
+  "ShortHandedGoals": 0,
+  "ShortHandedAssists": 3,
+  "GameWinningGoals": 4,
+  "TimeOnIcePerGame": 18,
+  "Production": 22
+},
+{
+  "_id": {
+    "$oid": "674d5095bf203647f8384417"
+  },
+  "PlayerID": 5,
+  "PlayerName": "Trent Frederic",
+  "GamesPlayed": 61,
+  "Goals": 16,
+  "Assists": 19,
+  "Points": 35,
+  "PlusMinus": 13,
+  "PenaltyMin": 50,
+  "Shots": 0,
+  "ShootingPercentage": {
+    "$numberDecimal": "17.20"
+  },
+  "PowerPlayGoals": 1,
+  "PowerPlayAssists": 0,
+  "ShortHandedGoals": 0,
+  "ShortHandedAssists": 0,
+  "GameWinningGoals": 0,
+  "TimeOnIcePerGame": 14,
+  "Production": 24
+},
+{
+  "_id": {
+    "$oid": "674d5095bf203647f8384418"
+  },
+  "PlayerID": 6,
+  "PlayerName": "Morgan Geekie",
+  "GamesPlayed": 55,
+  "Goals": 13,
+  "Assists": 17,
+  "Points": 30,
+  "PlusMinus": 7,
+  "PenaltyMin": 20,
+  "Shots": 0,
+  "ShootingPercentage": {
+    "$numberDecimal": "14.00"
+  },
+  "PowerPlayGoals": 3,
+  "PowerPlayAssists": 5,
+  "ShortHandedGoals": 0,
+  "ShortHandedAssists": 0,
+  "GameWinningGoals": 0,
+  "TimeOnIcePerGame": 15,
+  "Production": 28
+},
+{
+  "_id": {
+    "$oid": "674d5095bf203647f8384419"
+  },
+  "PlayerID": 7,
+  "PlayerName": "Jakub Lauko",
+  "GamesPlayed": 42,
+  "Goals": 2,
+  "Assists": 6,
+  "Points": 8,
+  "PlusMinus": -4,
+  "PenaltyMin": 28,
+  "Shots": 0,
+  "ShootingPercentage": {
+    "$numberDecimal": "6.50"
+  },
+  "PowerPlayGoals": 0,
+  "PowerPlayAssists": 0,
+  "ShortHandedGoals": 0,
+  "ShortHandedAssists": 0,
+  "GameWinningGoals": 0,
+  "TimeOnIcePerGame": 9,
+  "Production": 50
+},
+{
+  "_id": {
+    "$oid": "674d5095bf203647f838441a"
+  },
+  "PlayerID": 8,
+  "PlayerName": "Matthew Poitras",
+  "GamesPlayed": 33,
+  "Goals": 5,
+  "Assists": 10,
+  "Points": 15,
+  "PlusMinus": 4,
+  "PenaltyMin": 6,
+  "Shots": 0,
+  "ShootingPercentage": {
+    "$numberDecimal": "12.50"
+  },
+  "PowerPlayGoals": 0,
+  "PowerPlayAssists": 1,
+  "ShortHandedGoals": 0,
+  "ShortHandedAssists": 0,
+  "GameWinningGoals": 1,
+  "TimeOnIcePerGame": 13,
+  "Production": 29
+},
+{
+  "_id": {
+    "$oid": "674d5095bf203647f838441b"
+  },
+  "PlayerID": 9,
+  "PlayerName": "Pavel Zacha",
+  "GamesPlayed": 57,
+  "Goals": 12,
+  "Assists": 24,
+  "Points": 36,
+  "PlusMinus": 8,
+  "PenaltyMin": 16,
+  "Shots": 0,
+  "ShootingPercentage": {
+    "$numberDecimal": "11.00"
+  },
+  "PowerPlayGoals": 3,
+  "PowerPlayAssists": 7,
+  "ShortHandedGoals": 0,
+  "ShortHandedAssists": 0,
+  "GameWinningGoals": 3,
+  "TimeOnIcePerGame": 18,
+  "Production": 29
+},
+{
+  "_id": {
+    "$oid": "674d5095bf203647f838441c"
+  },
+  "PlayerID": 10,
+  "PlayerName": "Jake DeBrusk",
+  "GamesPlayed": 59,
+  "Goals": 13,
+  "Assists": 14,
+  "Points": 27,
+  "PlusMinus": 11,
+  "PenaltyMin": 12,
+  "Shots": 1,
+  "ShootingPercentage": {
+    "$numberDecimal": "9.80"
+  },
+  "PowerPlayGoals": 2,
+  "PowerPlayAssists": 5,
+  "ShortHandedGoals": 2,
+  "ShortHandedAssists": 0,
+  "GameWinningGoals": 2,
+  "TimeOnIcePerGame": 17,
+  "Production": 37
+},
+{
+  "_id": {
+    "$oid": "674d5095bf203647f838441d"
+  },
+  "PlayerID": 11,
+  "PlayerName": "Danton Heinen",
+  "GamesPlayed": 53,
+  "Goals": 11,
+  "Assists": 11,
+  "Points": 22,
+  "PlusMinus": 7,
+  "PenaltyMin": 22,
+  "Shots": 0,
+  "ShootingPercentage": {
+    "$numberDecimal": "12.20"
+  },
+  "PowerPlayGoals": 1,
+  "PowerPlayAssists": 0,
+  "ShortHandedGoals": 1,
+  "ShortHandedAssists": 0,
+  "GameWinningGoals": 3,
+  "TimeOnIcePerGame": 14,
+  "Production": 34
+},
+{
+  "_id": {
+    "$oid": "674d5095bf203647f838441e"
+  },
+  "PlayerID": 12,
+  "PlayerName": "Brad Marchand",
+  "GamesPlayed": 61,
+  "Goals": 26,
+  "Assists": 27,
+  "Points": 53,
+  "PlusMinus": 5,
+  "PenaltyMin": 62,
+  "Shots": 0,
+  "ShootingPercentage": {
+    "$numberDecimal": "15.80"
+  },
+  "PowerPlayGoals": 7,
+  "PowerPlayAssists": 15,
+  "ShortHandedGoals": 2,
+  "ShortHandedAssists": 0,
+  "GameWinningGoals": 6,
+  "TimeOnIcePerGame": 19,
+  "Production": 22
+},
+{
+  "_id": {
+    "$oid": "674d5095bf203647f838441f"
+  },
+  "PlayerID": 13,
+  "PlayerName": "James van Riemsdyk",
+  "GamesPlayed": 57,
+  "Goals": 11,
+  "Assists": 26,
+  "Points": 37,
+  "PlusMinus": 9,
+  "PenaltyMin": 14,
+  "Shots": 0,
+  "ShootingPercentage": {
+    "$numberDecimal": "8.70"
+  },
+  "PowerPlayGoals": 6,
+  "PowerPlayAssists": 6,
+  "ShortHandedGoals": 0,
+  "ShortHandedAssists": 0,
+  "GameWinningGoals": 3,
+  "TimeOnIcePerGame": 13,
+  "Production": 21
+},
+{
+  "_id": {
+    "$oid": "674d5095bf203647f8384420"
+  },
+  "PlayerID": 14,
+  "PlayerName": "Justin Brazeau",
+  "GamesPlayed": 5,
+  "Goals": 1,
+  "Assists": 1,
+  "Points": 2,
+  "PlusMinus": 2,
+  "PenaltyMin": 2,
+  "Shots": 0,
+  "ShootingPercentage": {
+    "$numberDecimal": "12.50"
+  },
+  "PowerPlayGoals": 0,
+  "PowerPlayAssists": 0,
+  "ShortHandedGoals": 0,
+  "ShortHandedAssists": 0,
+  "GameWinningGoals": 0,
+  "TimeOnIcePerGame": 10,
+  "Production": 27
+},
+{
+  "_id": {
+    "$oid": "674d5095bf203647f8384421"
+  },
+  "PlayerID": 15,
+  "PlayerName": "David Pastrnak",
+  "GamesPlayed": 61,
+  "Goals": 38,
+  "Assists": 49,
+  "Points": 87,
+  "PlusMinus": 21,
+  "PenaltyMin": 45,
+  "Shots": 1,
+  "ShootingPercentage": {
+    "$numberDecimal": "12.70"
+  },
+  "PowerPlayGoals": 11,
+  "PowerPlayAssists": 20,
+  "ShortHandedGoals": 0,
+  "ShortHandedAssists": 0,
+  "GameWinningGoals": 4,
+  "TimeOnIcePerGame": 20,
+  "Production": 14
+},
+{
+  "_id": {
+    "$oid": "674d5095bf203647f8384422"
+  },
+  "PlayerID": 16,
+  "PlayerName": "Brandon Carlo",
+  "GamesPlayed": 56,
+  "Goals": 3,
+  "Assists": 10,
+  "Points": 13,
+  "PlusMinus": 22,
+  "PenaltyMin": 34,
+  "Shots": 0,
+  "ShootingPercentage": {
+    "$numberDecimal": "5.20"
+  },
+  "PowerPlayGoals": 0,
+  "PowerPlayAssists": 0,
+  "ShortHandedGoals": 0,
+  "ShortHandedAssists": 0,
+  "GameWinningGoals": 1,
+  "TimeOnIcePerGame": 20,
+  "Production": 87
+},
+{
+  "_id": {
+    "$oid": "674d5095bf203647f8384423"
+  },
+  "PlayerID": 17,
+  "PlayerName": "Derek Forbort",
+  "GamesPlayed": 34,
+  "Goals": 0,
+  "Assists": 4,
+  "Points": 4,
+  "PlusMinus": 8,
+  "PenaltyMin": 17,
+  "Shots": 0,
+  "ShootingPercentage": {
+    "$numberDecimal": "0.00"
+  },
+  "PowerPlayGoals": 0,
+  "PowerPlayAssists": 0,
+  "ShortHandedGoals": 0,
+  "ShortHandedAssists": 0,
+  "GameWinningGoals": 0,
+  "TimeOnIcePerGame": 17,
+  "Production": 151
+},
+{
+  "_id": {
+    "$oid": "674d5095bf203647f8384424"
+  },
+  "PlayerID": 18,
+  "PlayerName": "Matt Grzelcyk",
+  "GamesPlayed": 46,
+  "Goals": 2,
+  "Assists": 6,
+  "Points": 8,
+  "PlusMinus": 5,
+  "PenaltyMin": 33,
+  "Shots": 0,
+  "ShootingPercentage": {
+    "$numberDecimal": "4.00"
+  },
+  "PowerPlayGoals": 0,
+  "PowerPlayAssists": 0,
+  "ShortHandedGoals": 0,
+  "ShortHandedAssists": 0,
+  "GameWinningGoals": 0,
+  "TimeOnIcePerGame": 17,
+  "Production": 100
+},
+{
+  "_id": {
+    "$oid": "674d5095bf203647f8384425"
+  },
+  "PlayerID": 19,
+  "PlayerName": "Hampus Lindholm",
+  "GamesPlayed": 56,
+  "Goals": 1,
+  "Assists": 18,
+  "Points": 19,
+  "PlusMinus": 19,
+  "PenaltyMin": 52,
+  "Shots": 0,
+  "ShootingPercentage": {
+    "$numberDecimal": "1.40"
+  },
+  "PowerPlayGoals": 1,
+  "PowerPlayAssists": 4,
+  "ShortHandedGoals": 0,
+  "ShortHandedAssists": 0,
+  "GameWinningGoals": 0,
+  "TimeOnIcePerGame": 24,
+  "Production": 70
+},
+{
+  "_id": {
+    "$oid": "674d5095bf203647f8384426"
+  },
+  "PlayerID": 20,
+  "PlayerName": "Mason Lohrei",
+  "GamesPlayed": 32,
+  "Goals": 4,
+  "Assists": 6,
+  "Points": 10,
+  "PlusMinus": 0,
+  "PenaltyMin": 14,
+  "Shots": 0,
+  "ShootingPercentage": {
+    "$numberDecimal": "10.30"
+  },
+  "PowerPlayGoals": 1,
+  "PowerPlayAssists": 1,
+  "ShortHandedGoals": 0,
+  "ShortHandedAssists": 0,
+  "GameWinningGoals": 1,
+  "TimeOnIcePerGame": 17,
+  "Production": 54
+},
+{
+  "_id": {
+    "$oid": "674d5095bf203647f8384427"
+  },
+  "PlayerID": 21,
+  "PlayerName": "Charlie McAvoy",
+  "GamesPlayed": 53,
+  "Goals": 9,
+  "Assists": 32,
+  "Points": 41,
+  "PlusMinus": 10,
+  "PenaltyMin": 71,
+  "Shots": 0,
+  "ShootingPercentage": {
+    "$numberDecimal": "8.70"
+  },
+  "PowerPlayGoals": 1,
+  "PowerPlayAssists": 12,
+  "ShortHandedGoals": 0,
+  "ShortHandedAssists": 0,
+  "GameWinningGoals": 3,
+  "TimeOnIcePerGame": 25,
+  "Production": 32
+},
+{
+  "_id": {
+    "$oid": "674d5095bf203647f8384428"
+  },
+  "PlayerID": 22,
+  "PlayerName": "Ian Mitchell",
+  "GamesPlayed": 13,
+  "Goals": 0,
+  "Assists": 2,
+  "Points": 2,
+  "PlusMinus": 6,
+  "PenaltyMin": 10,
+  "Shots": 0,
+  "ShootingPercentage": {
+    "$numberDecimal": "0.00"
+  },
+  "PowerPlayGoals": 0,
+  "PowerPlayAssists": 0,
+  "ShortHandedGoals": 0,
+  "ShortHandedAssists": 0,
+  "GameWinningGoals": 0,
+  "TimeOnIcePerGame": 15,
+  "Production": 100
+},
+{
+  "_id": {
+    "$oid": "674d5095bf203647f8384429"
+  },
+  "PlayerID": 23,
+  "PlayerName": "Kevin Shattenkirk",
+  "GamesPlayed": 48,
+  "Goals": 5,
+  "Assists": 12,
+  "Points": 17,
+  "PlusMinus": -3,
+  "PenaltyMin": 12,
+  "Shots": 0,
+  "ShootingPercentage": {
+    "$numberDecimal": "7.90"
+  },
+  "PowerPlayGoals": 2,
+  "PowerPlayAssists": 6,
+  "ShortHandedGoals": 0,
+  "ShortHandedAssists": 0,
+  "GameWinningGoals": 0,
+  "TimeOnIcePerGame": 16,
+  "Production": 44
+},
+{
+  "_id": {
+    "$oid": "674d5095bf203647f838442a"
+  },
+  "PlayerID": 24,
+  "PlayerName": "Parker Wotherspoon",
+  "GamesPlayed": 28,
+  "Goals": 0,
+  "Assists": 5,
+  "Points": 5,
+  "PlusMinus": 2,
+  "PenaltyMin": 18,
+  "Shots": 0,
+  "ShootingPercentage": {
+    "$numberDecimal": "0.00"
+  },
+  "PowerPlayGoals": 0,
+  "PowerPlayAssists": 0,
+  "ShortHandedGoals": 0,
+  "ShortHandedAssists": 0,
+  "GameWinningGoals": 0,
+  "TimeOnIcePerGame": 18,
+  "Production": 100
+}]

@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "674d4c6a37af7cc20aa1f9a1"
+  },
+  "PositionID": "D1",
+  "PositionName": "Left Defence"
+},
+{
+  "_id": {
+    "$oid": "674d4c6a37af7cc20aa1f9a2"
+  },
+  "PositionID": "D2",
+  "PositionName": "Right Defence"
+},
+{
+  "_id": {
+    "$oid": "674d4c6a37af7cc20aa1f9a3"
+  },
+  "PositionID": "F1",
+  "PositionName": "Center"
+},
+{
+  "_id": {
+    "$oid": "674d4c6a37af7cc20aa1f9a4"
+  },
+  "PositionID": "F2",
+  "PositionName": "Left Wing"
+},
+{
+  "_id": {
+    "$oid": "674d4c6a37af7cc20aa1f9a5"
+  },
+  "PositionID": "F3",
+  "PositionName": "Right Wing"
+},
+{
+  "_id": {
+    "$oid": "674d4c6a37af7cc20aa1f9a6"
+  },
+  "PositionID": "G1",
+  "PositionName": "Goalie"
+}]

@@ -1,0 +1,352 @@
+[{
+  "_id": {
+    "$oid": "674d50e73e09146bcb7c3ac6"
+  },
+  "VenueID": 1,
+  "VenueName": "TD Garden",
+  "Capacity": 17565,
+  "City": "Boston",
+  "State": "Massachusetts",
+  "Country": "USA"
+},
+{
+  "_id": {
+    "$oid": "674d50e73e09146bcb7c3ac7"
+  },
+  "VenueID": 2,
+  "VenueName": "Honda Center",
+  "Capacity": 17174,
+  "City": "Anaheim",
+  "State": "California",
+  "Country": "USA"
+},
+{
+  "_id": {
+    "$oid": "674d50e73e09146bcb7c3ac8"
+  },
+  "VenueID": 3,
+  "VenueName": "Mullett Arena",
+  "Capacity": 4600,
+  "City": "Tempe",
+  "State": "Arizona",
+  "Country": "USA"
+},
+{
+  "_id": {
+    "$oid": "674d50e73e09146bcb7c3ac9"
+  },
+  "VenueID": 4,
+  "VenueName": "KayBank Center",
+  "Capacity": 19070,
+  "City": "Buffalo",
+  "State": "New York",
+  "Country": "USA"
+},
+{
+  "_id": {
+    "$oid": "674d50e73e09146bcb7c3aca"
+  },
+  "VenueID": 5,
+  "VenueName": "Scotiabank Saddledome",
+  "Capacity": 19289,
+  "City": "Calgary",
+  "State": "Alberta",
+  "Country": "CAN"
+},
+{
+  "_id": {
+    "$oid": "674d50e73e09146bcb7c3acb"
+  },
+  "VenueID": 6,
+  "VenueName": "PNC Arena",
+  "Capacity": 18700,
+  "City": "Raleigh",
+  "State": "North Carolina",
+  "Country": "USA"
+},
+{
+  "_id": {
+    "$oid": "674d50e73e09146bcb7c3acc"
+  },
+  "VenueID": 7,
+  "VenueName": "United Center",
+  "Capacity": 19717,
+  "City": "Chicago",
+  "State": "Illinois",
+  "Country": "USA"
+},
+{
+  "_id": {
+    "$oid": "674d50e73e09146bcb7c3acd"
+  },
+  "VenueID": 8,
+  "VenueName": "Ball Arena",
+  "Capacity": 17809,
+  "City": "Denver",
+  "State": "Colorado",
+  "Country": "USA"
+},
+{
+  "_id": {
+    "$oid": "674d50e73e09146bcb7c3ace"
+  },
+  "VenueID": 9,
+  "VenueName": "Nationwide Arena",
+  "Capacity": 18144,
+  "City": "Columbus",
+  "State": "Ohio",
+  "Country": "USA"
+},
+{
+  "_id": {
+    "$oid": "674d50e73e09146bcb7c3acf"
+  },
+  "VenueID": 10,
+  "VenueName": "America Airlines Center",
+  "Capacity": 18532,
+  "City": "Dallas",
+  "State": "Texas",
+  "Country": "USA"
+},
+{
+  "_id": {
+    "$oid": "674d50e73e09146bcb7c3ad0"
+  },
+  "VenueID": 11,
+  "VenueName": "Little Ceasars Arena",
+  "Capacity": 19515,
+  "City": "Detroit",
+  "State": "Michigan",
+  "Country": "USA"
+},
+{
+  "_id": {
+    "$oid": "674d50e73e09146bcb7c3ad1"
+  },
+  "VenueID": 12,
+  "VenueName": "Rogers Place",
+  "Capacity": 18347,
+  "City": "Edmonton",
+  "State": "Alberta",
+  "Country": "CAN"
+},
+{
+  "_id": {
+    "$oid": "674d50e73e09146bcb7c3ad2"
+  },
+  "VenueID": 13,
+  "VenueName": "Amerant Bank Arena",
+  "Capacity": 19250,
+  "City": "Sunrise",
+  "State": "Florida",
+  "Country": "USA"
+},
+{
+  "_id": {
+    "$oid": "674d50e73e09146bcb7c3ad3"
+  },
+  "VenueID": 14,
+  "VenueName": "Crypto.com Arena",
+  "Capacity": 18230,
+  "City": "Los Angeles",
+  "State": "California",
+  "Country": "USA"
+},
+{
+  "_id": {
+    "$oid": "674d50e73e09146bcb7c3ad4"
+  },
+  "VenueID": 15,
+  "VenueName": "Xcel Energy Center",
+  "Capacity": 17954,
+  "City": "Saint Paul",
+  "State": "Minnesota",
+  "Country": "USA"
+},
+{
+  "_id": {
+    "$oid": "674d50e73e09146bcb7c3ad5"
+  },
+  "VenueID": 16,
+  "VenueName": "Bell Centre",
+  "Capacity": 21105,
+  "City": "Montreal",
+  "State": "Quebec",
+  "Country": "CAN"
+},
+{
+  "_id": {
+    "$oid": "674d50e73e09146bcb7c3ad6"
+  },
+  "VenueID": 17,
+  "VenueName": "Bridgestone Arena",
+  "Capacity": 17159,
+  "City": "Nashville",
+  "State": "Tennessee",
+  "Country": "USA"
+},
+{
+  "_id": {
+    "$oid": "674d50e73e09146bcb7c3ad7"
+  },
+  "VenueID": 18,
+  "VenueName": "Prudential Center",
+  "Capacity": 16514,
+  "City": "Newark",
+  "State": "New Jersey",
+  "Country": "USA"
+},
+{
+  "_id": {
+    "$oid": "674d50e73e09146bcb7c3ad8"
+  },
+  "VenueID": 19,
+  "VenueName": "UBS Arena",
+  "Capacity": 17255,
+  "City": "Elmont",
+  "State": "New York",
+  "Country": "USA"
+},
+{
+  "_id": {
+    "$oid": "674d50e73e09146bcb7c3ad9"
+  },
+  "VenueID": 20,
+  "VenueName": "Madison Square Garden",
+  "Capacity": 18006,
+  "City": "New York City",
+  "State": "New York",
+  "Country": "USA"
+},
+{
+  "_id": {
+    "$oid": "674d50e73e09146bcb7c3ada"
+  },
+  "VenueID": 21,
+  "VenueName": "Canadian Tire Centre",
+  "Capacity": 19347,
+  "City": "Ottawa",
+  "State": "Ontario",
+  "Country": "CAN"
+},
+{
+  "_id": {
+    "$oid": "674d50e73e09146bcb7c3adb"
+  },
+  "VenueID": 22,
+  "VenueName": "Wells Fargo Center",
+  "Capacity": 19538,
+  "City": "Philadelphia",
+  "State": "Pennsylvania",
+  "Country": "USA"
+},
+{
+  "_id": {
+    "$oid": "674d50e73e09146bcb7c3adc"
+  },
+  "VenueID": 23,
+  "VenueName": "PPG Paints Arena",
+  "Capacity": 18387,
+  "City": "Pittsburgh",
+  "State": "Pennsylvania",
+  "Country": "USA"
+},
+{
+  "_id": {
+    "$oid": "674d50e73e09146bcb7c3add"
+  },
+  "VenueID": 24,
+  "VenueName": "SAP Center",
+  "Capacity": 17562,
+  "City": "San Jose",
+  "State": "California",
+  "Country": "USA"
+},
+{
+  "_id": {
+    "$oid": "674d50e73e09146bcb7c3ade"
+  },
+  "VenueID": 25,
+  "VenueName": "Climate Pledge Arena",
+  "Capacity": 17151,
+  "City": "Seattle",
+  "State": "Washington",
+  "Country": "USA"
+},
+{
+  "_id": {
+    "$oid": "674d50e73e09146bcb7c3adf"
+  },
+  "VenueID": 26,
+  "VenueName": "Enterprise Center",
+  "Capacity": 18096,
+  "City": "St. Louis",
+  "State": "Missouri",
+  "Country": "USA"
+},
+{
+  "_id": {
+    "$oid": "674d50e73e09146bcb7c3ae0"
+  },
+  "VenueID": 27,
+  "VenueName": "Amalie Arena",
+  "Capacity": 19092,
+  "City": "Tampa",
+  "State": "Florida",
+  "Country": "USA"
+},
+{
+  "_id": {
+    "$oid": "674d50e73e09146bcb7c3ae1"
+  },
+  "VenueID": 28,
+  "VenueName": "Scotiabank Arena",
+  "Capacity": 18800,
+  "City": "Toronto",
+  "State": "Ontario",
+  "Country": "CAN"
+},
+{
+  "_id": {
+    "$oid": "674d50e73e09146bcb7c3ae2"
+  },
+  "VenueID": 29,
+  "VenueName": "Rogers Arena",
+  "Capacity": 18910,
+  "City": "Vancouver",
+  "State": "British Columbia",
+  "Country": "CAN"
+},
+{
+  "_id": {
+    "$oid": "674d50e73e09146bcb7c3ae3"
+  },
+  "VenueID": 30,
+  "VenueName": "T-Mobile Arena",
+  "Capacity": 17367,
+  "City": "Paradise",
+  "State": "Nevada",
+  "Country": "USA"
+},
+{
+  "_id": {
+    "$oid": "674d50e73e09146bcb7c3ae4"
+  },
+  "VenueID": 31,
+  "VenueName": "Capital One Arena",
+  "Capacity": 18573,
+  "City": "Washington D.C.",
+  "State": "Washington D.C.",
+  "Country": "USA"
+},
+{
+  "_id": {
+    "$oid": "674d50e73e09146bcb7c3ae5"
+  },
+  "VenueID": 32,
+  "VenueName": "Canada Life Centre",
+  "Capacity": 15321,
+  "City": "Winnipeg",
+  "State": "Manitoba",
+  "Country": "CAN"
+}]

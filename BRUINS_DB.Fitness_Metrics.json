@@ -1,0 +1,260 @@
+[{
+  "_id": {
+    "$oid": "674d4078e2196714c4830431"
+  },
+  "Player_ID": "P01",
+  "Endurance (min)": 78,
+  "VO2_Max (ml/kg/min)": 47.280728505,
+  "Speed (km/h)": 29.9378342653,
+  "Average Heart Rate (bpm)": 136
+},
+{
+  "_id": {
+    "$oid": "674d4078e2196714c4830432"
+  },
+  "Player_ID": "P02",
+  "Endurance (min)": 68,
+  "VO2_Max (ml/kg/min)": 55.2963223681,
+  "Speed (km/h)": 24.6756661413,
+  "Average Heart Rate (bpm)": 122
+},
+{
+  "_id": {
+    "$oid": "674d4078e2196714c4830433"
+  },
+  "Player_ID": "P03",
+  "Endurance (min)": 54,
+  "VO2_Max (ml/kg/min)": 43.4873465163,
+  "Speed (km/h)": 27.8010203177,
+  "Average Heart Rate (bpm)": 138
+},
+{
+  "_id": {
+    "$oid": "674d4078e2196714c4830434"
+  },
+  "Player_ID": "P04",
+  "Endurance (min)": 47,
+  "VO2_Max (ml/kg/min)": 47.3036162134,
+  "Speed (km/h)": 28.2006541901,
+  "Average Heart Rate (bpm)": 144
+},
+{
+  "_id": {
+    "$oid": "674d4078e2196714c4830435"
+  },
+  "Player_ID": "P05",
+  "Endurance (min)": 60,
+  "VO2_Max (ml/kg/min)": 49.1590460823,
+  "Speed (km/h)": 22.7728168329,
+  "Average Heart Rate (bpm)": 114
+},
+{
+  "_id": {
+    "$oid": "674d4078e2196714c4830436"
+  },
+  "Player_ID": "P06",
+  "Endurance (min)": 78,
+  "VO2_Max (ml/kg/min)": 51.4017496054,
+  "Speed (km/h)": 34.5437694165,
+  "Average Heart Rate (bpm)": 142
+},
+{
+  "_id": {
+    "$oid": "674d4078e2196714c4830437"
+  },
+  "Player_ID": "P07",
+  "Endurance (min)": 58,
+  "VO2_Max (ml/kg/min)": 59.6293990348,
+  "Speed (km/h)": 31.6269923504,
+  "Average Heart Rate (bpm)": 128
+},
+{
+  "_id": {
+    "$oid": "674d4078e2196714c4830438"
+  },
+  "Player_ID": "P08",
+  "Endurance (min)": 62,
+  "VO2_Max (ml/kg/min)": 44.991844554,
+  "Speed (km/h)": 34.0924841235,
+  "Average Heart Rate (bpm)": 135
+},
+{
+  "_id": {
+    "$oid": "674d4078e2196714c4830439"
+  },
+  "Player_ID": "P09",
+  "Endurance (min)": 50,
+  "VO2_Max (ml/kg/min)": 52.8558609603,
+  "Speed (km/h)": 33.4224102564,
+  "Average Heart Rate (bpm)": 112
+},
+{
+  "_id": {
+    "$oid": "674d4078e2196714c483043a"
+  },
+  "Player_ID": "P10",
+  "Endurance (min)": 50,
+  "VO2_Max (ml/kg/min)": 54.8103642216,
+  "Speed (km/h)": 28.9684996822,
+  "Average Heart Rate (bpm)": 131
+},
+{
+  "_id": {
+    "$oid": "674d4078e2196714c483043b"
+  },
+  "Player_ID": "P11",
+  "Endurance (min)": 63,
+  "VO2_Max (ml/kg/min)": 41.161260318,
+  "Speed (km/h)": 33.8281135253,
+  "Average Heart Rate (bpm)": 106
+},
+{
+  "_id": {
+    "$oid": "674d4078e2196714c483043c"
+  },
+  "Player_ID": "P12",
+  "Endurance (min)": 75,
+  "VO2_Max (ml/kg/min)": 55.1886212975,
+  "Speed (km/h)": 21.3273875308,
+  "Average Heart Rate (bpm)": 121
+},
+{
+  "_id": {
+    "$oid": "674d4078e2196714c483043d"
+  },
+  "Player_ID": "P13",
+  "Endurance (min)": 79,
+  "VO2_Max (ml/kg/min)": 44.2631030922,
+  "Speed (km/h)": 22.9397429363,
+  "Average Heart Rate (bpm)": 127
+},
+{
+  "_id": {
+    "$oid": "674d4078e2196714c483043e"
+  },
+  "Player_ID": "P14",
+  "Endurance (min)": 63,
+  "VO2_Max (ml/kg/min)": 41.6262898246,
+  "Speed (km/h)": 20.6784093337,
+  "Average Heart Rate (bpm)": 101
+},
+{
+  "_id": {
+    "$oid": "674d4078e2196714c483043f"
+  },
+  "Player_ID": "P15",
+  "Endurance (min)": 42,
+  "VO2_Max (ml/kg/min)": 63.7221384313,
+  "Speed (km/h)": 24.8799549614,
+  "Average Heart Rate (bpm)": 141
+},
+{
+  "_id": {
+    "$oid": "674d4078e2196714c4830440"
+  },
+  "Player_ID": "P16",
+  "Endurance (min)": 61,
+  "VO2_Max (ml/kg/min)": 64.1408008269,
+  "Speed (km/h)": 25.8301593453,
+  "Average Heart Rate (bpm)": 144
+},
+{
+  "_id": {
+    "$oid": "674d4078e2196714c4830441"
+  },
+  "Player_ID": "P17",
+  "Endurance (min)": 41,
+  "VO2_Max (ml/kg/min)": 60.2099337029,
+  "Speed (km/h)": 24.0702354766,
+  "Average Heart Rate (bpm)": 105
+},
+{
+  "_id": {
+    "$oid": "674d4078e2196714c4830442"
+  },
+  "Player_ID": "P18",
+  "Endurance (min)": 63,
+  "VO2_Max (ml/kg/min)": 47.6153442293,
+  "Speed (km/h)": 32.4310626373,
+  "Average Heart Rate (bpm)": 127
+},
+{
+  "_id": {
+    "$oid": "674d4078e2196714c4830443"
+  },
+  "Player_ID": "P19",
+  "Endurance (min)": 69,
+  "VO2_Max (ml/kg/min)": 42.4418028502,
+  "Speed (km/h)": 25.3512999004,
+  "Average Heart Rate (bpm)": 127
+},
+{
+  "_id": {
+    "$oid": "674d4078e2196714c4830444"
+  },
+  "Player_ID": "P20",
+  "Endurance (min)": 77,
+  "VO2_Max (ml/kg/min)": 57.1058256628,
+  "Speed (km/h)": 24.2140176453,
+  "Average Heart Rate (bpm)": 143
+},
+{
+  "_id": {
+    "$oid": "674d4078e2196714c4830445"
+  },
+  "Player_ID": "P21",
+  "Endurance (min)": 41,
+  "VO2_Max (ml/kg/min)": 51.0038123435,
+  "Speed (km/h)": 28.1404412474,
+  "Average Heart Rate (bpm)": 143
+},
+{
+  "_id": {
+    "$oid": "674d4078e2196714c4830446"
+  },
+  "Player_ID": "P22",
+  "Endurance (min)": 60,
+  "VO2_Max (ml/kg/min)": 43.0509558711,
+  "Speed (km/h)": 22.1138633746,
+  "Average Heart Rate (bpm)": 119
+},
+{
+  "_id": {
+    "$oid": "674d4078e2196714c4830447"
+  },
+  "Player_ID": "P23",
+  "Endurance (min)": 72,
+  "VO2_Max (ml/kg/min)": 52.3794227528,
+  "Speed (km/h)": 32.0329547113,
+  "Average Heart Rate (bpm)": 129
+},
+{
+  "_id": {
+    "$oid": "674d4078e2196714c4830448"
+  },
+  "Player_ID": "P24",
+  "Endurance (min)": 51,
+  "VO2_Max (ml/kg/min)": 40.8597130279,
+  "Speed (km/h)": 21.1182596552,
+  "Average Heart Rate (bpm)": 110
+},
+{
+  "_id": {
+    "$oid": "674d4078e2196714c4830449"
+  },
+  "Player_ID": "P25",
+  "Endurance (min)": 61,
+  "VO2_Max (ml/kg/min)": 62.733010052,
+  "Speed (km/h)": 34.803304049,
+  "Average Heart Rate (bpm)": 127
+},
+{
+  "_id": {
+    "$oid": "674d4078e2196714c483044a"
+  },
+  "Player_ID": "P26",
+  "Endurance (min)": 64,
+  "VO2_Max (ml/kg/min)": 46.46949954,
+  "Speed (km/h)": 31.5836715394,
+  "Average Heart Rate (bpm)": 124
+}]

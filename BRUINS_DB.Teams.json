@@ -1,0 +1,327 @@
+[{
+  "_id": {
+    "$oid": "674d50ac866fab180d069ea0"
+  },
+  "TeamID": 1,
+  "TeamName": "Bruins",
+  "City": "Boston",
+  "Conference": "Atlantic",
+  "HomeVenueID": 1
+},
+{
+  "_id": {
+    "$oid": "674d50ac866fab180d069ea1"
+  },
+  "TeamID": 2,
+  "TeamName": "Ducks",
+  "City": "Anaheim",
+  "Conference": "Pacific",
+  "HomeVenueID": 2
+},
+{
+  "_id": {
+    "$oid": "674d50ac866fab180d069ea2"
+  },
+  "TeamID": 3,
+  "TeamName": "Coyotes",
+  "City": "Arizona",
+  "Conference": "Central",
+  "HomeVenueID": 3
+},
+{
+  "_id": {
+    "$oid": "674d50ac866fab180d069ea3"
+  },
+  "TeamID": 4,
+  "TeamName": "Sabres",
+  "City": "Buffalo",
+  "Conference": "Atlantic",
+  "HomeVenueID": 4
+},
+{
+  "_id": {
+    "$oid": "674d50ac866fab180d069ea4"
+  },
+  "TeamID": 5,
+  "TeamName": "Flames",
+  "City": "Calgary",
+  "Conference": "Pacific",
+  "HomeVenueID": 5
+},
+{
+  "_id": {
+    "$oid": "674d50ac866fab180d069ea5"
+  },
+  "TeamID": 6,
+  "TeamName": "Hurricanes",
+  "City": "Carolina",
+  "Conference": "Metropolitan",
+  "HomeVenueID": 6
+},
+{
+  "_id": {
+    "$oid": "674d50ac866fab180d069ea6"
+  },
+  "TeamID": 7,
+  "TeamName": "Blackhawks",
+  "City": "Chicago",
+  "Conference": "Central",
+  "HomeVenueID": 7
+},
+{
+  "_id": {
+    "$oid": "674d50ac866fab180d069ea7"
+  },
+  "TeamID": 8,
+  "TeamName": "Avalanche",
+  "City": "Colorado",
+  "Conference": "Central",
+  "HomeVenueID": 8
+},
+{
+  "_id": {
+    "$oid": "674d50ac866fab180d069ea8"
+  },
+  "TeamID": 9,
+  "TeamName": "Blue Jackets",
+  "City": "Columbus",
+  "Conference": "Metropolitan",
+  "HomeVenueID": 9
+},
+{
+  "_id": {
+    "$oid": "674d50ac866fab180d069ea9"
+  },
+  "TeamID": 10,
+  "TeamName": "Stars",
+  "City": "Dallas",
+  "Conference": "Central",
+  "HomeVenueID": 10
+},
+{
+  "_id": {
+    "$oid": "674d50ac866fab180d069eaa"
+  },
+  "TeamID": 11,
+  "TeamName": "Red Wings",
+  "City": "Detroit",
+  "Conference": "Atlantic",
+  "HomeVenueID": 11
+},
+{
+  "_id": {
+    "$oid": "674d50ac866fab180d069eab"
+  },
+  "TeamID": 12,
+  "TeamName": "Oilers",
+  "City": "Edmonton",
+  "Conference": "Pacific",
+  "HomeVenueID": 12
+},
+{
+  "_id": {
+    "$oid": "674d50ac866fab180d069eac"
+  },
+  "TeamID": 13,
+  "TeamName": "Panthers",
+  "City": "Florida",
+  "Conference": "Atlantic",
+  "HomeVenueID": 13
+},
+{
+  "_id": {
+    "$oid": "674d50ac866fab180d069ead"
+  },
+  "TeamID": 14,
+  "TeamName": "Kings",
+  "City": "Los Angeles",
+  "Conference": "Pacific",
+  "HomeVenueID": 14
+},
+{
+  "_id": {
+    "$oid": "674d50ac866fab180d069eae"
+  },
+  "TeamID": 15,
+  "TeamName": "Wild",
+  "City": "Minnesota",
+  "Conference": "Central",
+  "HomeVenueID": 15
+},
+{
+  "_id": {
+    "$oid": "674d50ac866fab180d069eaf"
+  },
+  "TeamID": 16,
+  "TeamName": "Canadiens",
+  "City": "Montreal",
+  "Conference": "Atlantic",
+  "HomeVenueID": 16
+},
+{
+  "_id": {
+    "$oid": "674d50ac866fab180d069eb0"
+  },
+  "TeamID": 17,
+  "TeamName": "Predators",
+  "City": "Nashville",
+  "Conference": "Central",
+  "HomeVenueID": 17
+},
+{
+  "_id": {
+    "$oid": "674d50ac866fab180d069eb1"
+  },
+  "TeamID": 18,
+  "TeamName": "Devils",
+  "City": "New Jersey",
+  "Conference": "Metropolitan",
+  "HomeVenueID": 18
+},
+{
+  "_id": {
+    "$oid": "674d50ac866fab180d069eb2"
+  },
+  "TeamID": 19,
+  "TeamName": "Rangers",
+  "City": "New York",
+  "Conference": "Metropolitan",
+  "HomeVenueID": 19
+},
+{
+  "_id": {
+    "$oid": "674d50ac866fab180d069eb3"
+  },
+  "TeamID": 20,
+  "TeamName": "Islanders",
+  "City": "New York",
+  "Conference": "Metropolitan",
+  "HomeVenueID": 20
+},
+{
+  "_id": {
+    "$oid": "674d50ac866fab180d069eb4"
+  },
+  "TeamID": 21,
+  "TeamName": "Senators",
+  "City": "Ottowa",
+  "Conference": "Atlantic",
+  "HomeVenueID": 21
+},
+{
+  "_id": {
+    "$oid": "674d50ac866fab180d069eb5"
+  },
+  "TeamID": 22,
+  "TeamName": "Flyers",
+  "City": "Philadelphia",
+  "Conference": "Metropolitan",
+  "HomeVenueID": 22
+},
+{
+  "_id": {
+    "$oid": "674d50ac866fab180d069eb6"
+  },
+  "TeamID": 23,
+  "TeamName": "Penguins",
+  "City": "Pittsburgh",
+  "Conference": "Metropolitan",
+  "HomeVenueID": 23
+},
+{
+  "_id": {
+    "$oid": "674d50ac866fab180d069eb7"
+  },
+  "TeamID": 24,
+  "TeamName": "Sharks",
+  "City": "San Jose",
+  "Conference": "Pacific",
+  "HomeVenueID": 24
+},
+{
+  "_id": {
+    "$oid": "674d50ac866fab180d069eb8"
+  },
+  "TeamID": 25,
+  "TeamName": "Kraken",
+  "City": "Seattle",
+  "Conference": "Pacific",
+  "HomeVenueID": 25
+},
+{
+  "_id": {
+    "$oid": "674d50ac866fab180d069eb9"
+  },
+  "TeamID": 26,
+  "TeamName": "Blues",
+  "City": "St Louis",
+  "Conference": "Central",
+  "HomeVenueID": 26
+},
+{
+  "_id": {
+    "$oid": "674d50ac866fab180d069eba"
+  },
+  "TeamID": 27,
+  "TeamName": "Lightning",
+  "City": "Tampa Bay",
+  "Conference": "Atlantic",
+  "HomeVenueID": 27
+},
+{
+  "_id": {
+    "$oid": "674d50ac866fab180d069ebb"
+  },
+  "TeamID": 28,
+  "TeamName": "Maple Leafs",
+  "City": "Toronto",
+  "Conference": "Atlantic",
+  "HomeVenueID": 28
+},
+{
+  "_id": {
+    "$oid": "674d50ac866fab180d069ebc"
+  },
+  "TeamID": 29,
+  "TeamName": "Canucks",
+  "City": "Vancouver",
+  "Conference": "Pacific",
+  "HomeVenueID": 29
+},
+{
+  "_id": {
+    "$oid": "674d50ac866fab180d069ebd"
+  },
+  "TeamID": 30,
+  "TeamName": "Golden Knights",
+  "City": "Vegas",
+  "Conference": "Pacific",
+  "HomeVenueID": 30
+},
+{
+  "_id": {
+    "$oid": "674d50ac866fab180d069ebe"
+  },
+  "TeamID": 31,
+  "TeamName": "Capitals",
+  "City": "Washington",
+  "Conference": "Metropolitan",
+  "HomeVenueID": 31
+},
+{
+  "_id": {
+    "$oid": "674d50ac866fab180d069ebf"
+  },
+  "TeamID": 32,
+  "TeamName": "Jets",
+  "City": "Winnipeg",
+  "Conference": "Central",
+  "HomeVenueID": 32
+},
+{
+  "_id": {
+    "$oid": "674e7c6fe477628406eb8478"
+  },
+  "TeamName": "UTD",
+  "Division": "Atlantic"
+}]

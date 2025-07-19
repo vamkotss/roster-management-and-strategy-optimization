@@ -1,0 +1,840 @@
+[{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770c8"
+  },
+  "GameNumber": 1,
+  "RosterNumber": 1,
+  "Date": "Wed Oct 11",
+  "Opponent": "Blackhawks",
+  "HomeAway": 1,
+  "OpponentScore": 1,
+  "BruinsScore": 3,
+  "Result": 1,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770c9"
+  },
+  "GameNumber": 2,
+  "RosterNumber": 2,
+  "Date": "Sat Oct 14",
+  "Opponent": "Predators",
+  "HomeAway": 1,
+  "OpponentScore": 2,
+  "BruinsScore": 3,
+  "Result": 1,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770ca"
+  },
+  "GameNumber": 3,
+  "RosterNumber": 1,
+  "Date": "Thu Oct 19",
+  "Opponent": "Sharks",
+  "HomeAway": 0,
+  "OpponentScore": 1,
+  "BruinsScore": 3,
+  "Result": 1,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770cb"
+  },
+  "GameNumber": 4,
+  "RosterNumber": 2,
+  "Date": "Sat Oct 21",
+  "Opponent": "Kings",
+  "HomeAway": 0,
+  "OpponentScore": 2,
+  "BruinsScore": 4,
+  "Result": 1,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770cc"
+  },
+  "GameNumber": 5,
+  "RosterNumber": 3,
+  "Date": "Sun Oct 22",
+  "Opponent": "Ducks",
+  "HomeAway": 0,
+  "OpponentScore": 1,
+  "BruinsScore": 3,
+  "Result": 1,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770cd"
+  },
+  "GameNumber": 6,
+  "RosterNumber": 3,
+  "Date": "Tue Oct 24",
+  "Opponent": "Blackhawks",
+  "HomeAway": 0,
+  "OpponentScore": 0,
+  "BruinsScore": 3,
+  "Result": 1,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770ce"
+  },
+  "GameNumber": 7,
+  "RosterNumber": 3,
+  "Date": "Thu Oct 26",
+  "Opponent": "Ducks",
+  "HomeAway": 1,
+  "OpponentScore": 4,
+  "BruinsScore": 3,
+  "Result": 0,
+  "Regulation": "Overtime"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770cf"
+  },
+  "GameNumber": 8,
+  "RosterNumber": 3,
+  "Date": "Sat Oct 28",
+  "Opponent": "Red Wings",
+  "HomeAway": 1,
+  "OpponentScore": 1,
+  "BruinsScore": 4,
+  "Result": 1,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770d0"
+  },
+  "GameNumber": 9,
+  "RosterNumber": 1,
+  "Date": "Mon Oct 30",
+  "Opponent": "Panthers",
+  "HomeAway": 1,
+  "OpponentScore": 2,
+  "BruinsScore": 3,
+  "Result": 1,
+  "Regulation": "Overtime"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770d1"
+  },
+  "GameNumber": 10,
+  "RosterNumber": 1,
+  "Date": "Thu Nov 2",
+  "Opponent": "Maple Leafs",
+  "HomeAway": 1,
+  "OpponentScore": 2,
+  "BruinsScore": 3,
+  "Result": 1,
+  "Regulation": "Shootout"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770d2"
+  },
+  "GameNumber": 11,
+  "RosterNumber": 1,
+  "Date": "Sat Nov 4",
+  "Opponent": "Red Wings",
+  "HomeAway": 0,
+  "OpponentScore": 5,
+  "BruinsScore": 4,
+  "Result": 0,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770d3"
+  },
+  "GameNumber": 12,
+  "RosterNumber": 1,
+  "Date": "Mon Nov 6",
+  "Opponent": "Stars",
+  "HomeAway": 0,
+  "OpponentScore": 2,
+  "BruinsScore": 3,
+  "Result": 1,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770d4"
+  },
+  "GameNumber": 13,
+  "RosterNumber": 1,
+  "Date": "Thu Nov 9",
+  "Opponent": "Islanders",
+  "HomeAway": 1,
+  "OpponentScore": 2,
+  "BruinsScore": 5,
+  "Result": 1,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770d5"
+  },
+  "GameNumber": 14,
+  "RosterNumber": 1,
+  "Date": "Sat Nov 11",
+  "Opponent": "Canadiens",
+  "HomeAway": 0,
+  "OpponentScore": 3,
+  "BruinsScore": 2,
+  "Result": 0,
+  "Regulation": "Overtime"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770d6"
+  },
+  "GameNumber": 15,
+  "RosterNumber": 2,
+  "Date": "Tue Nov 14",
+  "Opponent": "Sabres",
+  "HomeAway": 0,
+  "OpponentScore": 2,
+  "BruinsScore": 5,
+  "Result": 1,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770d7"
+  },
+  "GameNumber": 16,
+  "RosterNumber": 1,
+  "Date": "Sat Nov 18",
+  "Opponent": "Canadiens",
+  "HomeAway": 1,
+  "OpponentScore": 2,
+  "BruinsScore": 5,
+  "Result": 1,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770d8"
+  },
+  "GameNumber": 17,
+  "RosterNumber": 2,
+  "Date": "Mon Nov 20",
+  "Opponent": "Lightning",
+  "HomeAway": 0,
+  "OpponentScore": 5,
+  "BruinsScore": 4,
+  "Result": 0,
+  "Regulation": "Overtime"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770d9"
+  },
+  "GameNumber": 18,
+  "RosterNumber": 2,
+  "Date": "Wed Nov 22",
+  "Opponent": "Panthers",
+  "HomeAway": 0,
+  "OpponentScore": 1,
+  "BruinsScore": 3,
+  "Result": 1,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770da"
+  },
+  "GameNumber": 19,
+  "RosterNumber": 2,
+  "Date": "Fri Nov 24",
+  "Opponent": "Red Wings",
+  "HomeAway": 1,
+  "OpponentScore": 5,
+  "BruinsScore": 2,
+  "Result": 0,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770db"
+  },
+  "GameNumber": 20,
+  "RosterNumber": 2,
+  "Date": "Sat Nov 25",
+  "Opponent": "Rangers",
+  "HomeAway": 0,
+  "OpponentScore": 7,
+  "BruinsScore": 4,
+  "Result": 0,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770dc"
+  },
+  "GameNumber": 21,
+  "RosterNumber": 2,
+  "Date": "Mon Nov 27",
+  "Opponent": "Blue Jackets",
+  "HomeAway": 0,
+  "OpponentScore": 5,
+  "BruinsScore": 2,
+  "Result": 0,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770dd"
+  },
+  "GameNumber": 22,
+  "RosterNumber": 3,
+  "Date": "Thu Nov 30",
+  "Opponent": "Sharks",
+  "HomeAway": 1,
+  "OpponentScore": 0,
+  "BruinsScore": 3,
+  "Result": 1,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770de"
+  },
+  "GameNumber": 23,
+  "RosterNumber": 1,
+  "Date": "Sat Dec 2",
+  "Opponent": "Maple Leafs",
+  "HomeAway": 0,
+  "OpponentScore": 3,
+  "BruinsScore": 4,
+  "Result": 1,
+  "Regulation": "Overtime"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770df"
+  },
+  "GameNumber": 24,
+  "RosterNumber": 2,
+  "Date": "Sun Dec 3",
+  "Opponent": "Blue Jackets",
+  "HomeAway": 1,
+  "OpponentScore": 1,
+  "BruinsScore": 3,
+  "Result": 1,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770e0"
+  },
+  "GameNumber": 25,
+  "RosterNumber": 3,
+  "Date": "Thu Dec 7",
+  "Opponent": "Sabres",
+  "HomeAway": 1,
+  "OpponentScore": 3,
+  "BruinsScore": 1,
+  "Result": 0,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770e1"
+  },
+  "GameNumber": 26,
+  "RosterNumber": 1,
+  "Date": "Sat Dec 9",
+  "Opponent": "Coyotes",
+  "HomeAway": 1,
+  "OpponentScore": 3,
+  "BruinsScore": 5,
+  "Result": 1,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770e2"
+  },
+  "GameNumber": 27,
+  "RosterNumber": 3,
+  "Date": "Wed Dec 13",
+  "Opponent": "Devils",
+  "HomeAway": 0,
+  "OpponentScore": 2,
+  "BruinsScore": 1,
+  "Result": 0,
+  "Regulation": "Overtime"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770e3"
+  },
+  "GameNumber": 28,
+  "RosterNumber": 1,
+  "Date": "Fri Dec 15",
+  "Opponent": "Islanders",
+  "HomeAway": 0,
+  "OpponentScore": 4,
+  "BruinsScore": 5,
+  "Result": 1,
+  "Regulation": "Shootout"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770e4"
+  },
+  "GameNumber": 29,
+  "RosterNumber": 1,
+  "Date": "Sat Dec 16",
+  "Opponent": "Rangers",
+  "HomeAway": 1,
+  "OpponentScore": 2,
+  "BruinsScore": 1,
+  "Result": 0,
+  "Regulation": "Overtime"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770e5"
+  },
+  "GameNumber": 30,
+  "RosterNumber": 2,
+  "Date": "Tue Dec 19",
+  "Opponent": "Wild",
+  "HomeAway": 1,
+  "OpponentScore": 4,
+  "BruinsScore": 3,
+  "Result": 0,
+  "Regulation": "Overtime"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770e6"
+  },
+  "GameNumber": 31,
+  "RosterNumber": 3,
+  "Date": "Fri Dec 22",
+  "Opponent": "Jets",
+  "HomeAway": 0,
+  "OpponentScore": 5,
+  "BruinsScore": 1,
+  "Result": 0,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770e7"
+  },
+  "GameNumber": 32,
+  "RosterNumber": 1,
+  "Date": "Sat Dec 23",
+  "Opponent": "Wild",
+  "HomeAway": 0,
+  "OpponentScore": 3,
+  "BruinsScore": 2,
+  "Result": 0,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770e8"
+  },
+  "GameNumber": 33,
+  "RosterNumber": 2,
+  "Date": "Wed Dec 27",
+  "Opponent": "Sabres",
+  "HomeAway": 0,
+  "OpponentScore": 1,
+  "BruinsScore": 4,
+  "Result": 1,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770e9"
+  },
+  "GameNumber": 34,
+  "RosterNumber": 1,
+  "Date": "Sat Dec 30",
+  "Opponent": "Devils",
+  "HomeAway": 1,
+  "OpponentScore": 2,
+  "BruinsScore": 5,
+  "Result": 1,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770ea"
+  },
+  "GameNumber": 35,
+  "RosterNumber": 3,
+  "Date": "Sun Dec 31",
+  "Opponent": "Red Wings",
+  "HomeAway": 0,
+  "OpponentScore": 3,
+  "BruinsScore": 5,
+  "Result": 1,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770eb"
+  },
+  "GameNumber": 36,
+  "RosterNumber": 2,
+  "Date": "Tue Jan 2",
+  "Opponent": "Blue Jackets",
+  "HomeAway": 0,
+  "OpponentScore": 1,
+  "BruinsScore": 4,
+  "Result": 1,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770ec"
+  },
+  "GameNumber": 37,
+  "RosterNumber": 2,
+  "Date": "Thu Jan 4",
+  "Opponent": "Penguins",
+  "HomeAway": 1,
+  "OpponentScore": 6,
+  "BruinsScore": 5,
+  "Result": 0,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770ed"
+  },
+  "GameNumber": 38,
+  "RosterNumber": 3,
+  "Date": "Sat Jan 6",
+  "Opponent": "Lightning",
+  "HomeAway": 1,
+  "OpponentScore": 3,
+  "BruinsScore": 7,
+  "Result": 1,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770ee"
+  },
+  "GameNumber": 39,
+  "RosterNumber": 2,
+  "Date": "Mon Jan 8",
+  "Opponent": "Avalanche",
+  "HomeAway": 0,
+  "OpponentScore": 4,
+  "BruinsScore": 3,
+  "Result": 0,
+  "Regulation": "Shootout"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770ef"
+  },
+  "GameNumber": 40,
+  "RosterNumber": 2,
+  "Date": "Tue Jan 9",
+  "Opponent": "Coyotes",
+  "HomeAway": 0,
+  "OpponentScore": 4,
+  "BruinsScore": 3,
+  "Result": 0,
+  "Regulation": "Overtime"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770f0"
+  },
+  "GameNumber": 41,
+  "RosterNumber": 2,
+  "Date": "Thu Jan 11",
+  "Opponent": "Golden Knights",
+  "HomeAway": 0,
+  "OpponentScore": 2,
+  "BruinsScore": 1,
+  "Result": 0,
+  "Regulation": "Overtime"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770f1"
+  },
+  "GameNumber": 42,
+  "RosterNumber": 3,
+  "Date": "Sat Jan 13",
+  "Opponent": "Blues",
+  "HomeAway": 0,
+  "OpponentScore": 3,
+  "BruinsScore": 4,
+  "Result": 1,
+  "Regulation": "Overtime"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770f2"
+  },
+  "GameNumber": 43,
+  "RosterNumber": 1,
+  "Date": "Mon Jan 15",
+  "Opponent": "Devils",
+  "HomeAway": 1,
+  "OpponentScore": 0,
+  "BruinsScore": 3,
+  "Result": 1,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770f3"
+  },
+  "GameNumber": 44,
+  "RosterNumber": 1,
+  "Date": "Thu Jan 18",
+  "Opponent": "Avalanche",
+  "HomeAway": 1,
+  "OpponentScore": 2,
+  "BruinsScore": 5,
+  "Result": 1,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770f4"
+  },
+  "GameNumber": 45,
+  "RosterNumber": 3,
+  "Date": "Sat Jan 20",
+  "Opponent": "Canadiens",
+  "HomeAway": 1,
+  "OpponentScore": 4,
+  "BruinsScore": 9,
+  "Result": 1,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770f5"
+  },
+  "GameNumber": 46,
+  "RosterNumber": 1,
+  "Date": "Mon Jan 22",
+  "Opponent": "Jets",
+  "HomeAway": 1,
+  "OpponentScore": 1,
+  "BruinsScore": 4,
+  "Result": 1,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770f6"
+  },
+  "GameNumber": 47,
+  "RosterNumber": 2,
+  "Date": "Wed Jan 24",
+  "Opponent": "Hurricanes",
+  "HomeAway": 1,
+  "OpponentScore": 3,
+  "BruinsScore": 2,
+  "Result": 0,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770f7"
+  },
+  "GameNumber": 48,
+  "RosterNumber": 1,
+  "Date": "Thu Jan 25",
+  "Opponent": "Senators",
+  "HomeAway": 0,
+  "OpponentScore": 2,
+  "BruinsScore": 3,
+  "Result": 1,
+  "Regulation": "Overtime"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770f8"
+  },
+  "GameNumber": 49,
+  "RosterNumber": 2,
+  "Date": "Sat Jan 27",
+  "Opponent": "Fliers",
+  "HomeAway": 0,
+  "OpponentScore": 2,
+  "BruinsScore": 6,
+  "Result": 1,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770f9"
+  },
+  "GameNumber": 50,
+  "RosterNumber": 3,
+  "Date": "Tue Feb 6",
+  "Opponent": "Flames",
+  "HomeAway": 1,
+  "OpponentScore": 1,
+  "BruinsScore": 1,
+  "Result": 0,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770fa"
+  },
+  "GameNumber": 51,
+  "RosterNumber": 1,
+  "Date": "Thu Feb 8",
+  "Opponent": "Canucks",
+  "HomeAway": 1,
+  "OpponentScore": 0,
+  "BruinsScore": 4,
+  "Result": 1,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770fb"
+  },
+  "GameNumber": 52,
+  "RosterNumber": 2,
+  "Date": "Sat Feb 10",
+  "Opponent": "Capitals",
+  "HomeAway": 1,
+  "OpponentScore": 3,
+  "BruinsScore": 0,
+  "Result": 0,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770fc"
+  },
+  "GameNumber": 53,
+  "RosterNumber": 2,
+  "Date": "Tue Feb 13",
+  "Opponent": "Lightning",
+  "HomeAway": 1,
+  "OpponentScore": 3,
+  "BruinsScore": 2,
+  "Result": 0,
+  "Regulation": "Shootout"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770fd"
+  },
+  "GameNumber": 54,
+  "RosterNumber": 1,
+  "Date": "Thu Feb 15",
+  "Opponent": "Kraken",
+  "HomeAway": 1,
+  "OpponentScore": 4,
+  "BruinsScore": 1,
+  "Result": 0,
+  "Regulation": "Regulation"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770fe"
+  },
+  "GameNumber": 55,
+  "RosterNumber": 2,
+  "Date": "Sat Feb 17",
+  "Opponent": "Kings",
+  "HomeAway": 1,
+  "OpponentScore": 5,
+  "BruinsScore": 4,
+  "Result": 0,
+  "Regulation": "Overtime"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b59770ff"
+  },
+  "GameNumber": 56,
+  "RosterNumber": 3,
+  "Date": "Mon Feb 19",
+  "Opponent": "Stars",
+  "HomeAway": 1,
+  "OpponentScore": 3,
+  "BruinsScore": 4,
+  "Result": 1,
+  "Regulation": "Shootout"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b5977100"
+  },
+  "GameNumber": 57,
+  "RosterNumber": 1,
+  "Date": "Wed Feb 21",
+  "Opponent": "Oilers",
+  "HomeAway": 0,
+  "OpponentScore": 5,
+  "BruinsScore": 6,
+  "Result": 1,
+  "Regulation": "Overtime"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b5977101"
+  },
+  "GameNumber": 58,
+  "RosterNumber": 2,
+  "Date": "Thu Feb 22",
+  "Opponent": "Flames",
+  "HomeAway": 0,
+  "OpponentScore": 3,
+  "BruinsScore": 2,
+  "Result": 0,
+  "Regulation": "Overtime"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b5977102"
+  },
+  "GameNumber": 59,
+  "RosterNumber": 1,
+  "Date": "Sat Feb 24",
+  "Opponent": "Kanucks",
+  "HomeAway": 0,
+  "OpponentScore": 3,
+  "BruinsScore": 2,
+  "Result": 0,
+  "Regulation": "Overtime"
+},
+{
+  "_id": {
+    "$oid": "674d4a8bef6c0f18b5977103"
+  },
+  "GameNumber": 60,
+  "RosterNumber": 1,
+  "Date": "Mon Feb 26",
+  "Opponent": "Kraken",
+  "HomeAway": 0,
+  "OpponentScore": 4,
+  "BruinsScore": 3,
+  "Result": 0,
+  "Regulation": "Shootout"
+}]

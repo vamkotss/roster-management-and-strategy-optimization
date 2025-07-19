@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "674d40f2905850d14ff8ed4a"
+  },
+  "CoachID": 1,
+  "CoachName": "Jim Montgomery",
+  "Position": "Head Coach",
+  "Seasons": 2
+},
+{
+  "_id": {
+    "$oid": "674d40f2905850d14ff8ed4b"
+  },
+  "CoachID": 2,
+  "CoachName": "Joe Sacco",
+  "Position": "Assistant Coach",
+  "Seasons": 10
+},
+{
+  "_id": {
+    "$oid": "674d40f2905850d14ff8ed4c"
+  },
+  "CoachID": 3,
+  "CoachName": "Chris Kelly",
+  "Position": "Assistant Coach",
+  "Seasons": 3
+},
+{
+  "_id": {
+    "$oid": "674d40f2905850d14ff8ed4d"
+  },
+  "CoachID": 4,
+  "CoachName": "John McLean",
+  "Position": "Assistant Coach",
+  "Seasons": 2
+},
+{
+  "_id": {
+    "$oid": "674d40f2905850d14ff8ed4e"
+  },
+  "CoachID": 5,
+  "CoachName": "Bob Essensa",
+  "Position": "Goalie Coach",
+  "Seasons": 21
+},
+{
+  "_id": {
+    "$oid": "674d40f2905850d14ff8ed4f"
+  },
+  "CoachID": 6,
+  "CoachName": "Tom Ford",
+  "Position": "Skating and Skills",
+  "Seasons": null
+},
+{
+  "_id": {
+    "$oid": "674d40f2905850d14ff8ed50"
+  },
+  "CoachID": 7,
+  "CoachName": "David Breen",
+  "Position": "Skating and Skills",
+  "Seasons": 2
+},
+{
+  "_id": {
+    "$oid": "674d40f2905850d14ff8ed51"
+  },
+  "CoachID": 8,
+  "CoachName": "Mathew Myers",
+  "Position": "Video Coordinator",
+  "Seasons": null
+}]
